@@ -11,9 +11,9 @@ function App() {
 
   return (
     <>
-    <HomeComponent/>
+    {/* <HomeComponent/> */}
     <QuizComponent/>
-    <ResultComponent/>
+    {/* <ResultComponent/> */}
     </>
   )
 }
